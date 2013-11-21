@@ -13,4 +13,11 @@ div.post {
     margin: 10px 0;
     padding: 10px 0;
     border-bottom: solid 1px #ededed;
+    font-size:18px;
+}
+
+div.date {
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 17px;
 }
