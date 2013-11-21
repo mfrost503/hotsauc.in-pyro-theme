@@ -16,6 +16,11 @@ div.post {
     font-size:16px;
 }
 
+div.post p {
+    margin: 0;
+    padding: 0;
+}
+
 div.date {
     font-size: 13px;
     font-weight: bold;
